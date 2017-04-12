@@ -1,3 +1,15 @@
 [submodule "vagrant"]
 	path = vagrant
 	url = https://github.com/nwoetzel/eclipse_dev_env_vagrant.git
+[submodule "studio3"]
+	path = studio3
+	url = https://github.com/nwoetzel/studio3.git
+[submodule "studio3-rcp"]
+	path = studio3-rcp
+	url = https://github.com/nwoetzel/studio3-rcp.git
+[submodule "studio3-php"]
+	path = studio3-php
+	url = https://github.com/nwoetzel/studio3-php.git
+[submodule "studio3-ruby"]
+	path = studio3-ruby
+	url = https://github.com/nwoetzel/studio3-ruby.git
